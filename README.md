@@ -1,6 +1,6 @@
 # remap 
 
-This repository contains a set of methos for reordering the alphabet of a string T\[1,n\].
+This repository contains a set of methods for reordering the alphabet of a string T\[1,n\].
 
 We investigate the effect of each alphabet reordering on the total number of Lyndon factors.
 
